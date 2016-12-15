@@ -1,8 +1,8 @@
-/build/
+build/
 local.properties
 # Gradle generated files
 .gradle/
 # Signing files
 .signing/
-/.idea
+.idea
 *.iml
